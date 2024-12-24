@@ -1,7 +1,7 @@
 stwindow._config = {
     cognito: {
-        userPoolId: 'us-east-1_K7O6I8Oox', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '5k53ot7ise82tsl36r6h6dclkr', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolId: 'us-east-1_zbBbmDcYD', // e.g. us-east-2_uXboG5pAb
+        userPoolClientId: '35664kamrj7drg01kvb1avg8e2', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
